@@ -1,0 +1,86 @@
+{
+    "accounts": [
+      {
+        "username": "@nathanf",
+        "socialNetwork": "facebook",
+        "icon": { "url": "images/icon-facebook.svg", "name": "Facebook" },
+        "total": 1987,
+        "description": "Followers",
+        "totalToday": 12
+      },
+      {
+        "username": "@nathanf",
+        "socialNetwork": "twitter",
+        "icon": { "url": "images/icon-twitter.svg", "name": "Twitter" },
+        "total": 1044,
+        "description": "Followers",
+        "totalToday": 99
+      },
+      {
+        "username": "@realnathanf",
+        "socialNetwork": "instagram",
+        "icon": { "url": "images/icon-instagram.svg", "name": "Instagram" },
+        "total": 11000,
+        "description": "Followers",
+        "totalToday": 1099
+      },
+      {
+        "username": "Nathan F.",
+        "socialNetwork": "youtube",
+        "icon": { "url": "images/icon-youtube.svg", "name": "Youtube" },
+        "total": 8239,
+        "description": "Subscribers",
+        "totalToday": -144
+      }
+    ],
+    "overview": [
+      {
+        "description": "Page Views",
+        "icon": { "url": "images/icon-facebook.svg", "name": "Facebook" },
+        "total": 87,
+        "totalToday": 3
+      },
+      {
+        "description": "Likes",
+        "icon": { "url": "images/icon-facebook.svg", "name": "Facebook" },
+        "total": 52,
+        "totalToday": 2
+      },
+      {
+        "description": "Likes",
+        "icon": { "url": "images/icon-instagram.svg", "name": "Instagram" },
+        "total": 5462,
+        "totalToday": 2257
+      },
+      {
+        "description": "Profile Views",
+        "icon": { "url": "images/icon-instagram.svg", "name": "Instagram" },
+        "total": 52000,
+        "totalToday": 1375
+      },
+      {
+        "description": "Retweets",
+        "icon": { "url": "images/icon-twitter.svg", "name": "Twitter" },
+        "total": 117,
+        "totalToday": 303
+      },
+      {
+        "description": "Likes",
+        "icon": { "url": "images/icon-twitter.svg", "name": "Twitter" },
+        "total": 507,
+        "totalToday": 553
+      },
+      {
+        "description": "Likes",
+        "icon": { "url": "images/icon-youtube.svg", "name": "Youtube" },
+        "total": 107,
+        "totalToday": -19
+      },
+      {
+        "description": "Total Views",
+        "icon": { "url": "images/icon-youtube.svg", "name": "Youtube" },
+        "total": 1407,
+        "totalToday": -12
+      }
+    ]
+  }
