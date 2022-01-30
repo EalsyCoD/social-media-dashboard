@@ -11,8 +11,8 @@ const Header = ({ toggleTheme }) => {
           <Wrapper >
             <Title>Social Media Dashboard</Title>
             <Label>Total Followers: 23,004</Label>
-            <Switch toggleTheme={toggleTheme}/>
            </Wrapper>
+           <Switch toggleTheme={toggleTheme}/>
          </Container>
     )
 }
